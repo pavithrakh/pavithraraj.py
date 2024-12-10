@@ -1,0 +1,5 @@
+a = int(input("enter minutes"))
+hour = a/60
+minute = a%60
+c = a//b
+print(hour,minute,c)
