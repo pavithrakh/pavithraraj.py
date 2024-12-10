@@ -1,0 +1,4 @@
+l = float(input("length of rectangle"))
+b = float(input("breadth of rectangle"))
+perimeter = 2*(length+breadth)
+print("perimeter of rectangle is :", perimeter)
