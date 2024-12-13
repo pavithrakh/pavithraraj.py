@@ -1,0 +1,2 @@
+teacher={'name':'Pooja','age':20,'gender':'female'}
+print(teacher)
