@@ -1,0 +1,6 @@
+try:
+  file=open("/PAVITHRA RAJ.txt","r")
+except FileNotFoundError:
+  print("File not found.")
+finally:
+  print("Execution complete.")
